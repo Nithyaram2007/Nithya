@@ -25,6 +25,8 @@ public class occurvow {
 	public static void main(String[] args) {
 		 Map<Character,Integer>occurance=occurance("javaApplication");
 		 System.out.println(occurance);
+		 System.out.println("Hai");
+		 System.out.println("Welcome Java");
 	}
 	
 
